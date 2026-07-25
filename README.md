@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System( CONTENT Based)
 
 A **Content-Based Movie Recommendation System** built using **Python, Scikit-learn, Pandas, NLTK, and Streamlit**. The system recommends movies similar to the one selected by the user by analyzing movie metadata such as genres, keywords, cast, crew, and overview.
 
