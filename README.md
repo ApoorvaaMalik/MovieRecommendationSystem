@@ -165,8 +165,6 @@ The Streamlit application provides:
 - One-click recommendation button
 - Top 5 similar movie recommendations
 
-*(Add screenshots here after uploading them.)*
-
 ---
 
 ## 📈 Future Improvements
