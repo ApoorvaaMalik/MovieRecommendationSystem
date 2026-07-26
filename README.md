@@ -178,7 +178,7 @@ The Streamlit application provides:
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Author(KIET GROUP OF INSTITUTIONS)
 
 **Apoorva Malik**
 
